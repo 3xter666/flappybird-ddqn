@@ -1,4 +1,4 @@
-# Deep Q-Network (DQN) FlappyBird Project for UIT's CS106
+# Deep Q-Network (DQN) FlappyBird Project for UIT's CS106 (Artificial Intelligence)
 
 A comprehensive implementation of Deep Q-Network (DQN) and Double DQN algorithms for training an AI agent to play FlappyBird .
 
