@@ -68,3 +68,7 @@ python agent.py flappybird_dqn1
 
 Edit hyperparameters.yaml to customize training:
 
+## Demo
+
+https://github.com/user-attachments/assets/422d9d46-f3a0-4034-82f5-49d01b6bf701
+
