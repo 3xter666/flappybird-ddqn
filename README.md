@@ -24,7 +24,7 @@ The agent learns to play FlappyBird through trial and error, using experience re
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/dqn-flappybird.git
+git clone https://github.com/3xter666/dqn-flappybird.git
 cd dqn-flappybird
 ```
 
