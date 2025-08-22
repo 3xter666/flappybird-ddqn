@@ -1,7 +1,9 @@
 # Deep Q-Network (DQN) FlappyBird Project for UIT's CS106 (Artificial Intelligence)
 
 A comprehensive implementation of Deep Q-Network (DQN) and Double DQN algorithms for training an AI agent to play FlappyBird .
-
+## Contributors
+- 3exter666, github profile: https://github.com/3xter666
+- duyhoclaptrinh7, github profile: https://github.com/duyhoclaptrinh7 
 ## 📋 Project Overview
 
 This project implements and compares two reinforcement learning algorithms:
@@ -71,4 +73,5 @@ Edit hyperparameters.yaml to customize training:
 ## Demo
 
 https://github.com/user-attachments/assets/422d9d46-f3a0-4034-82f5-49d01b6bf701
+
 
