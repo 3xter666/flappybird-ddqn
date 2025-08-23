@@ -2,7 +2,7 @@
 
 A comprehensive implementation of Deep Q-Network (DQN) and Double DQN algorithms for training an AI agent to play FlappyBird .
 ## Contributors
-- 3exter666, github profile: https://github.com/3xter666
+- 3xter666, github profile: https://github.com/3xter666
 - duyhoclaptrinh7, github profile: https://github.com/duyhoclaptrinh7 
 ## 📋 Project Overview
 
